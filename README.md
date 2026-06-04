@@ -4,7 +4,7 @@ A fun word-guessing game built with React where players try to save the programm
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed link here
+🎯 [Can You Survive the Endgame?](https://assembly-endgame-ten-pied.vercel.app/)
 
 ---
 
